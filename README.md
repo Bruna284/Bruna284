@@ -28,5 +28,5 @@ Buscando oportunidades como **Analista Júnior** ou **Suporte Técnico Júnior**
 ---
 
 ## 📬 Contatos
-(mailto:rosendob883@gmail.com)  
+(email:rosendob883@gmail.com)  
 (https://www.linkedin.com/in/brunapenarosendo)  
