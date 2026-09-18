@@ -15,7 +15,7 @@
 
 Profissional com sólida experiência em **atendimento ao público**, atualmente em transição para a área de Tecnologia. Em formação em **Cibersegurança e Redes** pelo **Cisco Networking Academy**, participante da comunidade **Mulheres em Tech / Mulher Digital**.
 
-Buscando oportunidades como **Analista Júnior de Cibersegurança ou **Suporte Técnico Júnior**.
+Buscando oportunidades como **Analista Júnior de Cibersegurança** ou **Suporte Técnico Júnior**.
 
 ---
 
@@ -46,21 +46,6 @@ Buscando oportunidades como **Analista Júnior de Cibersegurança ou **Suporte T
 ![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introdução%20à%20Cibersegurança-005073?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Networking](https://img.shields.io/badge/Cisco-Conceitos%20de%20Dispositivos%20de%20Rede-2E7D32?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Em Andamento](https://img.shields.io/badge/Cisco-Dispositivos%20de%20Rede%20(Em%20Curso)-F57F17?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruna284&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna284&layout=compact&theme=dracula" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruna284&theme=dracula" alt="Streak Stats" />
-</div>
 
 ---
 
