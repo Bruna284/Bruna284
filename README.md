@@ -18,6 +18,22 @@ Buscando oportunidades como **Analista Júnior** ou **Suporte Técnico Júnior**
 ![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
+
+📚 O que estou construindo
+🌐 Redes & Infraestrutura
+
+Estudos voltados aos fundamentos de redes, tráfego de dados e comunicação entre dispositivos (Cisco).
+	
+🛡️ Operações de Segurança (SOC)
+
+Construção gradual da base necessária para atuar na triagem e investigação de incidentes.
+🧪 Laboratórios Práticos
+
+Práticas em ambientes simulados como Packet Tracer e análises utilizando Wireshark.
+	
+📖 Documentação Técnica
+
+Registro estruturado dos conteúdos estudados, aplicando minha vivência com organização.
 ---
 
 ## 🎓 Certificações
