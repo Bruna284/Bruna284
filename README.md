@@ -13,9 +13,9 @@
 
 ### 🚀 Em transição para Tecnologia | Foco em Cibersegurança & Redes
 
-Profissional com sólida experiência em **atendimento ao público** e **pedagogia**, atualmente em transição para a área de Tecnologia. Em formação em **Cibersegurança e Redes** pelo **Cisco Networking Academy**, participante da comunidade **Mulheres em Tech / Mulher Digital**.
+Profissional com sólida experiência em **atendimento ao público**, atualmente em transição para a área de Tecnologia. Em formação em **Cibersegurança e Redes** pelo **Cisco Networking Academy**, participante da comunidade **Mulheres em Tech / Mulher Digital**.
 
-Buscando oportunidades como **Analista Júnior de Cibersegurança / Soc** ou **Suporte Técnico Júnior**.
+Buscando oportunidades como **Analista Júnior de Cibersegurança ou **Suporte Técnico Júnior**.
 
 ---
 
